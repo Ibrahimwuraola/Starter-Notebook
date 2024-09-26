@@ -1,3 +1,3 @@
-git clone https://github.com/ibrahimwuraola/Starter Nootbook.git
+git clone https://github.com/ibrahimwuraola/Starter Notebook.git
 cd Starter Nootbook
 
